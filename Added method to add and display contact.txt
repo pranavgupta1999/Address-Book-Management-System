@@ -53,6 +53,6 @@ public class AddressBook {
         String mobileNo1 = contacts.getMobileNo();
         System.out.println("Mobile No : " + mobileNo1);
         String email1 = contacts.getEmail();
-        System.out.println("Email id : " + email1);
+        System.out.println("Email id : " + email);
     }
 }
